@@ -1,0 +1,12 @@
+order,country,description,designation,points,price,province,region_1,region_2,taster_name,taster_twitter_handle,title,variety,winery
+0,Italy,Aromas ,Bianco,87,,Sicily,Etna,,Kerin,@kerinokeefe,Nicosia 2013,White,Nicosia
+1,Portugal,This.,Avidagos,87,15.0,Douro,,,Roger,@vossroger,Quinta 2011,Portuguese,Quinta
+2,US,Tart,,,14.0,Oregon,Willamette,Willamette,Paul,@paulgwine,Rainstorm 2013,Pinot,Rainstorm
+3,US,Pineapple,Reserve,87,,Michigan,Lake,,Alexander,,Julian 2013,Riesling,St. Julian
+4,,Much,Vintner,87,65.0,Oregon,Willamette,Willamette,Paul,@paulgwine,Sweet 2012,Pinot,Sweet
+5,Spain,Blackberry,Ars,87,15.0,Northern,Navarra,,Michael,@wineschach,Tandem 2011,Tempranillo,Tandem
+6,Italy,Here,Belsito,87,16.0,Sicily,Vittoria,,Kerin,@kerinokeefe,Terre 2013,Frappato,Terre
+7,France,This,,87,24.0,Alsace,Alsace,,Roger,@vossroger,Trimbach 2012,Gewürztraminer,Trimbach
+8,Germany,Savory,Shine,87,12.0,Rheinhessen,,,Anna,,Heinz 2013,Gewürztraminer,Heinz
+9,France,This,Les Natures,87,27.0,Alsace,Alsace,,Roger,@vossroger,Jean 2012,Pinot,Jean-Baptiste
+10,US,Soft,Mountain,87,19.0,California,Napa,Napa,Virginie,@vboone,Kirkland 2011,Cabernet,Kirkland

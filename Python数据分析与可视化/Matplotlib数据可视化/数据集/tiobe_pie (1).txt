@@ -1,0 +1,11 @@
+Python,15.42
+C,14.59
+Java,12.40
+C++,10.17
+C#,5.59
+Visual Basic,4.99
+JavaScript,2.33
+Assembly language,2.17
+SQL,	1.70
+PHP,1.39
+Other,29.25

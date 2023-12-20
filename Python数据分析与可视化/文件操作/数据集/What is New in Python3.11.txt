@@ -1,0 +1,16 @@
+Summary – Release highlights
+New Features
+New Features Related to Type Hints
+Other Language Changes
+Other CPython Implementation Changes
+New Modules
+Improved Modules
+Optimizations
+Faster CPython
+CPython bytecode changes
+Deprecated
+Pending Removal in Python 3.12
+Removed
+Porting to Python 3.11
+Build Changes
+C API Changes
